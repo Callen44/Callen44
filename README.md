@@ -1,16 +1,19 @@
 ### Hi there 👋
+I'm Caleb Allen, I'm in high school and working on programming as a career.
 
-<!--
-**Callen44/Callen44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some technologies I know well:
+- HTML
+- Python
+- Basic Linux
+- Both Github and Gitlab
 
-Here are some ideas to get you started:
+Some technologies I'm okay at and working on:
+- Basic Django framework (most of my work is not in public repositories)
+- Basic Bootstrap CSS framework
+- Docker
+- Linux Servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some technologies I want to learn
+- CSS
+- JavaScript
+- Kubernetes
